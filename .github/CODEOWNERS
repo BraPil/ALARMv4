@@ -1,0 +1,14 @@
+# CODEOWNERS — ALARMv4 Review Authority
+
+# Architecture & Design
+docs/ @BraPil
+wiki/ @BraPil
+*.md @BraPil
+
+# Source Code (Phase β+)
+# src/alarmv4/ @BraPil
+# tests/ @BraPil
+
+# Configuration
+.env.example @BraPil
+pyproject.toml @BraPil
